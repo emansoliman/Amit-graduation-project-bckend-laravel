@@ -132,8 +132,5 @@ As for the Facebook and Google API's configurations you will need to:
 
 We are a team of software engineering students at ITI intake 41, Smart Village branch, Open-source application track.
 
-- Ahmed Atef
-- Aya Hamed
-- Heba Mostafa
 - Eman Reda
-- Hosam Ali
+ 
